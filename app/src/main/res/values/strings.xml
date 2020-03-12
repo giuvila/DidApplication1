@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Did Application</string>
+    <string name="email_txt">Email</string>
+    <string name="login_password">Password</string>
+    <string name="pwd_txt">Forgot password?</string>
+    <string name="hello_txt">Hello</string>
+    <string name="accedi_txt">Log in to your account.</string>
+</resources>
