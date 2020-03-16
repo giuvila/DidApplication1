@@ -6,4 +6,6 @@
     <string name="pwd_txt">Password dimenticata?</string>
     <string name="hello_txt">Ciao</string>
     <string name="accedi_txt">Accedi al tuo account.</string>
+    <string name="oppure_txt">Oppure scannerizza il </string>
+    <string name="qr_txt"><u> QR code</u></string>
 </resources>

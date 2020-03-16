@@ -5,4 +5,6 @@
     <string name="pwd_txt">Forgot password?</string>
     <string name="hello_txt">Hello</string>
     <string name="accedi_txt">Log in to your account.</string>
+    <string name="oppure_txt">Or scan your</string>
+    <string name="qr_txt"><u> QR code</u></string>
 </resources>
